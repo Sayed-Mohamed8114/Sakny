@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/Black And White Minimalist Home Real Estate Logo.png" alt="My Image" width="200" />
+  <img src="assets/newlogo.png" alt="My Image" width="200" />
 </div>
 
 
