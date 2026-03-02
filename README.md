@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/newlogo.png" alt="My Image" width="200" />
+  <img src="sakny/public/assets/newlogo.png" alt="My Image" width="200" />
 </div>
 
 
